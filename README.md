@@ -1,7 +1,6 @@
 # About Me <img height="48" alt="latest-1662089780(1)" src="https://github.com/user-attachments/assets/4871df80-4f39-4e34-b746-809c18c6985a" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melisbm&color=58a6ff&style=flat-square" />&nbsp;
   <img src="https://img.shields.io/github/followers/melisbm?style=flat-square&color=58a6ff&label=Followers" />&nbsp;
   <img src="https://img.shields.io/github/stars/melisbm?style=flat-square&color=58a6ff&label=Stars" />&nbsp;
   <img src="https://img.shields.io/badge/Favorite-C%23-9B4F96?style=flat-square&logo=csharp&logoColor=white" />
