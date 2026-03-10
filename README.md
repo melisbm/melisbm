@@ -32,8 +32,10 @@
 <br>
   <div align="center">
     <a href="https://leetcode.com/melisbm"><img src="https://img.shields.io/badge/LeetCode-melisbm-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
-    <a href="https://codeforces.com/profile/melisbm"><img src="https://img.shields.io/badge/Codeforces-melisbm-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
-    <a href="https://www.hackerrank.com/melisbm"><img src="https://img.shields.io/badge/HackerRank-melisbm-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/melisnatsu"><img src="https://img.shields.io/badge/Codeforces-melisnatsu-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
+    <a href="https://www.hackerrank.com/melisbm"><img src="https://img.shields.io/badge/HackerRank-melisbm-32C766?style=flat-square&logo=hackerrank&logoColor=white" /></a>&nbsp;
+    <a href="https://www.codewars.com/users/melisbm"><img src="https://img.shields.io/badge/CodeWars-melisbm-F05656?style=flat-square&logo=codewars&logoColor=white" /></a>
+    
   </div>
   
 ## GitHub Stats
