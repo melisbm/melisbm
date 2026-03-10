@@ -19,7 +19,7 @@
     </td>
     <td align="center">
       <b>Tools I Work With</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,docker" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,docker,figma" />
     </td>
   </tr>
   <tr>
