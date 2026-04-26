@@ -1,5 +1,5 @@
 # About Me <img height="48" alt="latest-1662089780(1)" src="https://github.com/user-attachments/assets/4871df80-4f39-4e34-b746-809c18c6985a" />
-<h3 align="center">I build stuff. Sometimes it even works. 🤞</h3>
+<h3 align="center">I build stuff.</h3>
 <br>
 <table align="center" border="0" cellspacing="0" cellpadding="16">
   <tr>
